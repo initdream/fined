@@ -1,0 +1,121 @@
+question,ground_truth
+What is a bear market?,"A bear market is a period of falling stock prices, typically by 20% or more from recent highs."
+What is a bull market?,A bull market is a period of rising stock prices and investor confidence.
+What is a stock?,A stock represents a share of ownership in a publicly traded company.
+What is a bond?,"A bond is a loan made by an investor to a borrower, such as a company or government, which pays fixed interest payments until a maturity date."
+What is a mutual fund?,"A mutual fund is a professionally managed investment fund that pools money from many investors to purchase a diversified portfolio of stocks, bonds, or other securities."
+What is an exchange-traded fund (ETF)?,"An ETF is a type of security that tracks an index, sector, commodity, or other asset, but which can be purchased or sold on a stock exchange the same as a regular stock."
+What is a dividend?,"A dividend is a distribution of a portion of a company's earnings, decided by the board of directors, to a class of its shareholders."
+What is diversification?,Diversification is a risk management strategy that mixes a wide variety of investments within a portfolio to reduce the impact of any single security on overall performance.
+What is an asset?,"An asset is a resource with economic value that an individual, corporation, or country owns or controls with the expectation that it will provide a future benefit."
+What is a liability?,A liability is a financial obligation of a company that results in the company’s future sacrifices of economic benefits to other entities or businesses.
+What is a balance sheet?,"A balance sheet is a financial statement that reports a company's assets, liabilities, and shareholder equity at a specific point in time."
+What is an income statement?,"An income statement is a financial statement that reports a company's financial performance over a specific accounting period, showing revenues, expenses, and profit or loss."
+What is a cash flow statement?,"A cash flow statement is a financial statement that provides aggregate data regarding all cash inflows a company receives from its ongoing operations and external investment sources, as well as all cash outflows."
+What is market capitalization?,Market capitalization refers to the total dollar market value of a company's outstanding shares of stock and is calculated by multiplying the total number of a company's outstanding shares by the current market price of one share.
+What is a P/E ratio?,The price-to-earnings (P/E) ratio is the ratio for valuing a company that measures its current share price relative to its per-share earnings.
+What is a beta?,Beta is a measure of a stock's volatility in relation to the overall market. A beta of 1 indicates the stock's price will move with the market.
+What is an alpha?,"Alpha is a measure of the active return on an investment, the performance of that investment compared with a suitable benchmark."
+What is a hedge fund?,"A hedge fund is a pooled investment fund that trades in relatively liquid assets and is able to make extensive use of more complex trading, portfolio-construction, and risk management techniques to improve performance, such as short selling, leverage, and derivatives."
+What is a private equity fund?,"Private equity is a form of financing where money, or capital, is invested in companies that are not publicly traded on a stock exchange."
+What is venture capital?,"Venture capital is a form of private equity financing that is provided by venture capital firms or funds to startups, early-stage, and emerging companies that have been deemed to have high growth potential or which have demonstrated high growth."
+What is an initial public offering (IPO)?,An IPO is the process by which a private company can go public by sale of its stocks to general public.
+What is a secondary offering?,A secondary offering is the sale of new or closely held shares by a company that has already made an initial public offering (IPO).
+What is a stock option?,"A stock option gives an investor the right, but not the obligation, to buy or sell a stock at an agreed-upon price and date."
+What is a futures contract?,A futures contract is a legal agreement to buy or sell a particular commodity or financial instrument at a predetermined price at a specified time in the future.
+What is a commodity?,A commodity is a basic good used in commerce that is interchangeable with other commodities of the same type.
+What is a currency?,"A currency is a standardization of money in any form, in use or circulation as a medium of exchange, for example, banknotes and coins."
+What is a cryptocurrency?,"A cryptocurrency is a digital or virtual currency that uses cryptography for security and is decentralized, meaning it is not subject to government or financial institution control."
+What is blockchain?,"A blockchain is a decentralized, distributed, and oftentimes public, digital ledger consisting of records called blocks that is used to record transactions across many computers so that any involved block cannot be altered retroactively, without the alteration of all subsequent blocks."
+What is a 401(k) plan?,A 401(k) is a retirement savings plan sponsored by an employer that lets workers save and invest a piece of their paycheck before taxes are taken out.
+What is an Individual Retirement Account (IRA)?,An IRA is a tax-advantaged investing tool that individuals use to earmark funds for retirement savings.
+What is a Roth IRA?,"A Roth IRA is a special retirement account where you pay taxes on money going into your account, and then all future withdrawals are tax-free."
+What is a traditional IRA?,"A traditional IRA is a way to save for retirement that gives you tax advantages. Contributions you make may be tax-deductible, and any earnings can grow tax-deferred until you withdraw them in retirement."
+What is an annuity?,"An annuity is a financial product that pays out a fixed stream of payments to an individual, primarily used as an income stream for retirees."
+What is a mutual fund prospectus?,A prospectus is a formal legal document that is required by and filed with the Securities and Exchange Commission (SEC) that provides details about an investment offering for sale to the public.
+What is a brokerage account?,"A brokerage account is an account you open with a stock brokerage firm in order to buy and sell stocks, mutual funds, and other securities."
+What is a financial advisor?,A financial advisor is a professional who provides financial guidance to clients based on their needs and goals.
+What is a fiduciary?,"A fiduciary is a person or organization that acts on behalf of another person or persons, putting their clients' interest ahead of their own, with a duty to preserve good faith and trust."
+What is an annual report?,"An annual report is a yearly report by a company to its shareholders, documenting its activities and finances in the previous financial year."
+What is a quarterly report?,A quarterly report is a set of financial statements issued by a company every three months that provides an update on its financial health.
+What is a security?,"A security is a fungible, negotiable financial instrument that holds some type of monetary value. It represents an ownership position in a publicly-traded corporation—via stock—a creditor relationship with a governmental body or a corporation—represented by owning that entity's bond—or rights to ownership as represented by an option."
+What is an asset class?,An asset class is a grouping of investments that exhibit similar characteristics and are subject to the same laws and regulations.
+What is a stock exchange?,"A stock exchange is a marketplace where securities, such as stocks and bonds, are bought and sold."
+What is the Dow Jones Industrial Average (DJIA)?,"The DJIA is a stock market index that tracks 30 large, publicly-owned blue-chip companies trading on the New York Stock Exchange (NYSE) and the NASDAQ."
+What is the S&P 500?,The S&P 500 is a stock market index that represents the performance of 500 of the largest publicly traded companies in the United States.
+What is the Nasdaq Composite Index?,The Nasdaq Composite Index is a stock market index of the common stocks and similar securities listed on the Nasdaq stock market.
+What is a blue-chip stock?,"A blue-chip stock is a huge company with an excellent reputation. These are typically large, well-established, and financially sound companies that have operated for many years and that have dependable earnings, often paying dividends to investors."
+What is a growth stock?,A growth stock is a share in a company that is anticipated to grow at a rate significantly above the average for the market.
+What is a value stock?,"A value stock is a stock that trades at a lower price compared to its fundamentals, such as dividends, earnings, or sales, making it appealing to value investors."
+What is an income stock?,"An income stock is a stock that pays regular, often steadily increasing, dividends."
+What is a cyclical stock?,A cyclical stock is a stock that's price is affected by macroeconomic or systematic changes in the overall economy.
+What is a defensive stock?,A defensive stock is a stock that provides a constant dividend and stable earnings regardless of the state of the overall stock market.
+What is a penny stock?,A penny stock is a stock that trades for less than $5 per share and is typically issued by a small company.
+What is a margin account?,A margin account is a brokerage account in which the broker lends the customer cash to purchase securities. The loan in the account is collateralized by the securities and cash.
+What is short selling?,"Short selling is the sale of a security that is not owned by the seller, or that the seller has borrowed. Short selling is motivated by the belief that a security's price will decline, enabling it to be bought back at a lower price to make a profit."
+What is insider trading?,"Insider trading is the buying or selling of a publicly traded company's stock by someone who has non-public, material information about that stock."
+What is a prospectus?,A prospectus is a document containing the details of an investment offering for sale to the public. It is filed with the Securities and Exchange Commission (SEC).
+What is a Form 10-K?,A Form 10-K is a comprehensive report filed annually by a publicly-traded company about its financial performance and is required by the U.S. Securities and Exchange Commission (SEC).
+What is a Form 10-Q?,A Form 10-Q is a comprehensive report of a company's performance that must be submitted quarterly by all public companies to the Securities and Exchange Commission (SEC).
+What is a proxy statement?,A proxy statement is a document that a company is required to provide to shareholders when soliciting their votes on corporate matters.
+What is a capital gain?,"A capital gain is the profit one earns on the sale of an asset like stocks, bonds or real estate. It results in a capital gain if the selling price of an asset is higher than the original purchase price."
+What is a capital loss?,"A capital loss is the loss incurred when a capital asset, such as an investment or real estate, decreases in value."
+What is a wash sale?,A wash sale occurs when you sell a security at a loss and then purchase that same security or a 'substantially identical' one within 30 days before or after the sale.
+What is a stock split?,A stock split is a corporate action in which a company divides its existing shares into multiple shares to boost the liquidity of the shares.
+What is a reverse stock split?,A reverse stock split is a corporate action in which a company reduces the total number of its outstanding shares.
+What is a stock buyback?,"A stock buyback, or share repurchase, is when a company buys its own shares from the marketplace. A buyback reduces the number of outstanding shares, which tends to increase the stock price."
+What is a tender offer?,"A tender offer is a public offer to the shareholders of a publicly traded company to tender (i.e., sell) their shares of stock, usually at a specified price that is higher than the current market price."
+What is a merger?,A merger is a corporate strategy of combining different companies into a single company in order to enhance the financial and operational strengths of both organizations.
+What is an acquisition?,An acquisition is a corporate action in which one company purchases most or all of another company's shares to gain control of that company.
+What is a leveraged buyout (LBO)?,A leveraged buyout (LBO) is the acquisition of another company using a significant amount of borrowed money to meet the cost of acquisition.
+What is a junk bond?,"A junk bond is a high-yield, high-risk security, typically issued by a company seeking to raise capital quickly in order to finance a takeover."
+What is an investment grade bond?,An investment-grade bond is a bond that is considered to have a low risk of default and receives a rating of 'BBB-' or higher from Standard & Poor's or 'Baa3' or higher from Moody's.
+What is a municipal bond?,"A municipal bond is a debt security issued by a state, municipality or county to finance its capital expenditures, including the construction of highways, bridges or schools."
+What is a Treasury bond (T-bond)?,"A Treasury bond is a marketable, fixed-interest U.S. government debt security with a maturity of more than 10 years."
+What is a Treasury bill (T-bill)?,A Treasury bill is a short-term U.S. government debt obligation backed by the Treasury Department with a maturity of one year or less.
+What is a Treasury note (T-note)?,A Treasury note is a marketable U.S. government debt security with a fixed interest rate and a maturity between one and 10 years.
+What is a yield curve?,"A yield curve is a line that plots the interest rates, at a set point in time, of bonds having equal credit quality but differing maturity dates."
+What is an inverted yield curve?,An inverted yield curve is an interest rate environment in which long-term debt instruments have a lower yield than short-term debt instruments of the same credit quality.
+What is quantitative easing (QE)?,Quantitative easing is a monetary policy whereby a central bank buys government bonds or other financial assets in order to inject money into the economy to expand economic activity.
+What is the federal funds rate?,The federal funds rate is the target interest rate set by the Federal Open Market Committee (FOMC) at which commercial banks borrow and lend their excess reserves to each other overnight.
+What is inflation?,"Inflation is the rate at which the general level of prices for goods and services is rising, and subsequently, purchasing power is falling."
+What is deflation?,"Deflation is a general decline in prices for goods and services, typically associated with a contraction in the supply of money and credit in the economy."
+What is stagflation?,"Stagflation is a condition of slow economic growth and relatively high unemployment—a time of stagnation—accompanied by a rise in prices, or inflation."
+What is a recession?,"A recession is a significant decline in economic activity that lasts for months or even years. Experts declare a recession when a nation's economy experiences negative gross domestic product (GDP), rising levels of unemployment, falling retail sales, and contracting measures of income and manufacturing for an extended period of time."
+What is a depression?,"A depression is a severe and prolonged downturn in economic activity. In economics, a depression is commonly defined as an extreme recession that lasts three or more years or which leads to a decline in real gross domestic product (GDP) of at least 10%."
+What is gross domestic product (GDP)?,Gross domestic product (GDP) is the total monetary or market value of all the finished goods and services produced within a country's borders in a specific time period.
+What is the consumer price index (CPI)?,"The Consumer Price Index (CPI) is a measure that examines the weighted average of prices of a basket of consumer goods and services, such as transportation, food, and medical care."
+What is a leading indicator?,A leading indicator is a piece of economic data that corresponds with a future change in the economy's state.
+What is a lagging indicator?,A lagging indicator is a measurable economic factor that changes only after the economy has begun to follow a particular pattern or trend.
+What is a coincident indicator?,A coincident indicator is a metric that shows the current state of economic activity within a particular area.
+What is a fiscal policy?,Fiscal policy is the use of government spending and taxation to influence the economy.
+What is a monetary policy?,Monetary policy is the control of the quantity of money available in an economy and the channels by which new money is supplied.
+What is a central bank?,A central bank is a financial institution given privileged control over the production and distribution of money and credit for a nation or a group of nations.
+What is the Federal Reserve (the Fed)?,"The Federal Reserve System, often referred to as the Fed, is the central bank of the United States."
+What is a bull market in bonds?,A bull market in bonds occurs when bond prices are rising and yields are falling.
+What is a bear market in bonds?,A bear market in bonds occurs when bond prices are falling and yields are rising.
+What is a credit rating?,A credit rating is an assessment of the creditworthiness of a borrower in general terms or with respect to a particular debt or financial obligation.
+What is a credit score?,"A credit score is a number between 300–850 that depicts a consumer's creditworthiness. The higher the score, the better a borrower looks to potential lenders."
+What is a mortgage?,"A mortgage is a loan that is used to purchase or maintain a home, land, or other types of real estate."
+What is an adjustable-rate mortgage (ARM)?,An adjustable-rate mortgage (ARM) is a type of mortgage in which the interest rate applied on the outstanding balance varies throughout the life of the loan.
+What is a fixed-rate mortgage?,A fixed-rate mortgage is a home loan that has a fixed interest rate for the entire term of the loan.
+What is an amortization schedule?,An amortization schedule is a table detailing each periodic payment on a loan. It shows how much of each payment is applied to principal and how much to interest.
+What is a down payment?,A down payment is an initial up-front partial payment for the purchase of expensive items/services such as a car or a house.
+What is a home equity line of credit (HELOC)?,"A home equity line of credit, or HELOC, is a loan in which the lender agrees to lend a maximum amount within an agreed period, where the collateral is the borrower's equity in their home."
+What is a reverse mortgage?,"A reverse mortgage is a loan available to homeowners, 62 years or older, that allows them to convert part of the equity in their homes into cash."
+What is a financial statement?,"A financial statement is a formal record of the financial activities and position of a business, person, or other entity."
+What is an audit?,An audit is an unbiased examination and evaluation of the financial statements of an organization.
+What is depreciation?,Depreciation is an accounting method of allocating the cost of a tangible or physical asset over its useful life or life expectancy.
+What is amortization?,Amortization is an accounting technique used to periodically lower the book value of a loan or an intangible asset over a set period of time.
+What is goodwill?,Goodwill is an intangible asset that is associated with the purchase of one company by another.
+What is a balance of trade?,The balance of trade is the difference between the value of a country's imports and exports for a given period.
+What is a trade deficit?,A trade deficit occurs when a country's imports exceed its exports during a given time period.
+What is a trade surplus?,A trade surplus occurs when a country's exports exceed its imports.
+What is a tariff?,A tariff is a tax imposed by one country on the goods and services imported from another country.
+What is a currency exchange rate?,A currency exchange rate is the rate at which one currency will be exchanged for another.
+What is a strong dollar?,A strong dollar is a U.S. dollar that can buy more foreign currency than it could before.
+What is a weak dollar?,A weak dollar is a U.S. dollar that can buy less foreign currency than it could before.
+What is a foreign exchange market (forex)?,The foreign exchange market is a global marketplace for exchanging national currencies against one another.
+What is a spot exchange rate?,The spot exchange rate is the current exchange rate at which a currency pair can be bought or sold.
+What is a forward exchange rate?,The forward exchange rate is the exchange rate at which a bank agrees to exchange one currency for another at a future date when it enters into a forward contract with an investor.
+What is risk tolerance?,"Risk tolerance is the degree of variability in investment returns that an investor is willing to withstand in their financial planning. It's an important component for investors to understand as it influences the types of investments they should choose."

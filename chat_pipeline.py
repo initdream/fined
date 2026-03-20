@@ -42,7 +42,6 @@ document_store = MilvusDocumentStore(
 )
 
 template = [
-    # 1. SYSTEM MESSAGE: Sets the rules and behavior.
     ChatMessage.from_system(
         """
         You are a virtual financial EDUCATOR, not a financial advisor, planner, or assistant. Your sole purpose is to explain financial concepts objectively. You do not help users manage their money or make financial decisions.
@@ -56,8 +55,6 @@ template = [
         Keep answers brief and direct.
         """
     ),
-
-    # 2. USER MESSAGE: Contains the context and the specific question.
     ChatMessage.from_user(
         """
         <documents>
@@ -131,15 +128,37 @@ basic_rag_pipeline.connect("retriever.documents", "ranker.documents")
 basic_rag_pipeline.connect("ranker.documents", "prompt_builder.documents")
 basic_rag_pipeline.connect("prompt_builder.prompt", "llm.messages")
 
-def run_pipeline(question):
+def run_pipeline(question, session_id="default_session"):
     response = basic_rag_pipeline.run(
         {
             "text_embedder": {"text": question},
             "prompt_builder": {"question": question},
             #ranker needs this to work
             "ranker": {"query": question},
-            "memory_joiner": {"values": [ChatMessage.from_user(question)]}
+            "memory_joiner": {"values": [ChatMessage.from_user(question)]},
+            "memory_retriever": {"chat_history_id": session_id},
+            "memory_writer": {"chat_history_id": session_id}
         }
     )
 
     return response["llm"]["replies"][0].text
+
+def run_pipeline_for_evaluation(question):
+    response = basic_rag_pipeline.run(
+        {
+            "text_embedder": {"text": question},
+            "prompt_builder": {"question": question},
+            "ranker": {"query": question},
+            "memory_joiner": {"values":[ChatMessage.from_user(question)]}
+        },
+        include_outputs_from={"ranker"}
+    )
+
+    # LLM answer
+    answer = response["llm"]["replies"][0].text
+
+    # contexts from the ranker
+    documents = response["ranker"]["documents"]
+    contexts =[doc.content for doc in documents]
+
+    return answer, contexts

@@ -17,7 +17,7 @@ document_store = MilvusDocumentStore(
     connection_args={"uri": "./milvus.db"},
     drop_old=True,
 )
-# 2. Create an indexing pipeline
+# create an indexing pipeline
 file_converter = TextFileToDocument()
 # 250 words 30 overlaping
 splitter = DocumentSplitter(split_by="word", split_length=250, split_overlap=30) 
